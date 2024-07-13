@@ -1,0 +1,13 @@
+filename = 'Hammered-forge-1.20.1-1.0.1.jar'
+name = 'Hammered'
+side = 'both'
+
+[download]
+hash = 'f188480938ce7bdbf62d4c2342aebcdd8f65f4d766c920bb1840540df6056920a35733c4cc496b4aee1ed177b37fe2f9f3a7e72acb3d7e98c9843ba271de3e7c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZeW96dhc/versions/K1tPFuVn/Hammered-forge-1.20.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'ZeW96dhc'
+version = 'K1tPFuVn'
